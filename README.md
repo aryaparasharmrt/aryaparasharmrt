@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm Arya Parashar 👋
 
-<!--
-**aryaparasharmrt/aryaparasharmrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer with a passion for Backend Development. Currently, I work at Softage.
 
-Here are some ideas to get you started:
+## Skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** [Java, JavaScript, Python]
+- **Web Technologies:** [Html, CSS, JavaScript, Nodejs, Postman]
+- **Tools and Frameworks:** [Springboot, BootStrap]
+
+## Projects
+
+### [Amazoff](https://github.com/aryaparasharmrt/amazoff)
+- A Backend Process to configure the request raised by user and provide response accordingly like Amazon.
+- Technologies used: [Core Java, Springboot, Hibernate, MySql, RestAPI, Postman]
+
+## Profile Visits
+
+![Visitor Count](http://profile-counter.glitch.me/aryaparasharmrt/count.svg)
